@@ -22,7 +22,7 @@ skills = {
     "data": ["Pandas", "NumPy"],
     "tools": ["Git", "VS Code", "Jupyter"]
 }
-
+```
 📫 How to reach me
 
 LinkedIn: [Your LinkedIn]
