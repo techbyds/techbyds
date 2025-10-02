@@ -23,12 +23,12 @@ skills = {
     "tools": ["Git", "VS Code", "Jupyter"]
 }
 ```
-📫 How to reach me
+### 📫 How to reach me
 
 LinkedIn: [Your LinkedIn]
 Email: your.email@example.com
 
-⚡ Fun fact
-Transitioning from [je vorige achtergrond] to AI Engineering!
+### ⚡ Fun fact
+Transitioning from Test Automation Engineering to AI Engineering!
 
 💡 "Building in public, learning every day"
